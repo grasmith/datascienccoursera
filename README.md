@@ -1,2 +1,0 @@
-# datascienccoursera
-course project
